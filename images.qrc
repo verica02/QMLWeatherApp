@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/1-s.png</file>
+        <file>images/2-s.png</file>
+        <file>images/3-s.png</file>
+        <file>images/4-s.png</file>
+        <file>images/5-s.png</file>
+        <file>images/6-s.png</file>
+        <file>images/7-s.png</file>
+        <file>images/8-s.png</file>
+        <file>images/11-s.png</file>
+        <file>images/12-s.png</file>
+        <file>images/13-s.png</file>
+        <file>images/14-s.png</file>
+        <file>images/15-s.png</file>
+        <file>images/16-s.png</file>
+        <file>images/17-s.png</file>
+        <file>images/18-s.png</file>
+        <file>images/19-s.png</file>
+        <file>images/20-s.png</file>
+        <file>images/21-s.png</file>
+        <file>images/22-s.png</file>
+        <file>images/23-s.png</file>
+        <file>images/24-s.png</file>
+        <file>images/25-s.png</file>
+        <file>images/26-s.png</file>
+        <file>images/29-s.png</file>
+        <file>images/30-s.png</file>
+        <file>images/31-s.png</file>
+        <file>images/32-s.png</file>
+        <file>images/33-s.png</file>
+        <file>images/34-s.png</file>
+        <file>images/35-s.png</file>
+        <file>images/36-s.png</file>
+        <file>images/37-s.png</file>
+        <file>images/38-s.png</file>
+        <file>images/39-s.png</file>
+        <file>images/40-s.png</file>
+        <file>images/41-s.png</file>
+        <file>images/42-s.png</file>
+        <file>images/43-s.png</file>
+        <file>images/44-s.png</file>
+        <file>fonts/Aller_Bd.ttf</file>
+        <file>fonts/OpenSans-Light.ttf</file>
+    </qresource>
+</RCC>
