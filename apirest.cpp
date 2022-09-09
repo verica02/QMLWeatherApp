@@ -20,9 +20,9 @@ void ApiRest::setJsonData(const QJsonObject& data)
 void ApiRest::restApiRequest()
 {
     QNetworkRequest request;
-    /*first create an accuweather app with limited trial, generate api key, then go tolocation api,  https://developer.accuweather.com/accuweather-locations-api/apis/get/locations/v1/adminareas/%7BcountryCode%7D paste MK into {countryCode} and the ID of the city is generated, to get the country code go to regionlist and paste the api key, continets id will be generated, then to country list and admin area list*/
+    /*first create an accuweather app with limited trial, generate api key, then go tolocation api,  https://developer.accuweather.com/accuweather-locations-api/apis/get/locations/v1/adminareas/%7BcountryCode%7D paste MK into {countryCode} and the ID of the city is generated, to get the country code go to regionlist and paste the api key, continents id will be generated, then to country list and admin area list*/
 
-    QUrl url("http://dataservice.accuweather.com/forecasts/v1/daily/5day/85?apikey=%09npFLHGBwQgAdxJ0DhH8IRaaGS0FwtysY");//cURL for Skopje
+    QUrl url("http://dataservice.accuweather.com/forecasts/v1/daily/5day/85?apikey=YOUR_API_KEY");
 
     request.setHeader(QNetworkRequest::ContentTypeHeader, "application/json");
     request.setUrl(url);
